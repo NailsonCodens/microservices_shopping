@@ -1,0 +1,5 @@
+notification/node_modules/
+orders/node_modules
+customer/node_modules
+yarn-error.logo
+yarn.lock
